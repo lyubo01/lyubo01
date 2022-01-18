@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development/front end
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything related 
-- 📫 How to reach me lyubo01@abv.bg
+- 📫 How to reach me lyubo0136@gmail.com
 
 <!---
 lyubo01/lyubo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
