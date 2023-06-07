@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lyubo01
-- 👀 I’m interested in web development/front end
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything related 
 - 📫 How to reach me lyubo0136@gmail.com
