@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyubo01
+- 👋 Hi, I’m Lyuboslav 
 - 👀 I’m interested in Software Engineering
 - 🌱 Software Engineer at @100Devs 
 - 💞️ I’m looking to collaborate on anything related 
